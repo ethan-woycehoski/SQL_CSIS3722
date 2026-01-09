@@ -1,1 +1,1 @@
-# SQL_CSIS3722
+Repository for SQL projects done in CSIS 3722 at Youngstown State University.
